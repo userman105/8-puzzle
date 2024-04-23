@@ -1,0 +1,3 @@
+I did an 8 puzzle game fo fun using functions,
+once executed you supply the goal matrix and then control
+your using the arrow buttons
